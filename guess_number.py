@@ -15,4 +15,3 @@ while True:
     if guess == number:
         break
 print('Вы угадали число')
-print('test')
